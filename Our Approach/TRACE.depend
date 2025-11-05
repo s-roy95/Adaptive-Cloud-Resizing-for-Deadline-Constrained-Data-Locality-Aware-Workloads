@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723386162 source:c:\users\shubhradeep roy\downloads\trace\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<list>
+	<algorithm>
+	<fstream>
+	<iomanip>
+	<string>
+	<unordered_map>
+	<bits/stdc++.h>
+
