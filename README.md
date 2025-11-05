@@ -22,17 +22,17 @@ Contains all the datasets used in the experiments.
 ---
 
 ### 2. `Code/`
-Contains the implementation of all algorithms.
+
 Running Our approach
--> g++ main.cpp
--> a.exe 1      // Generates job 
--> a.exe 2      // Executes our approach
+- ` g++ main.cpp`
+- ` a.exe 1`     // Generates job 
+- ` a.exe 2`       // Executes our approach
 
 In order to simulate real life data
--> In line 188, change file name from "trace.txt" to "google.txt" 
+- In line 188, change file name from "trace.txt" to "google.txt" 
 
 In order to simulate synthetic data
--> In line 188, change file name from "google.txt" to "trace.txt"
+- In line 188, change file name from "google.txt" to "trace.txt"
 
 
 
