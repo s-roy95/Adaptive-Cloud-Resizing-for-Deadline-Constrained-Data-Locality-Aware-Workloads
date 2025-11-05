@@ -1,6 +1,6 @@
 Running SHED+
--> g++ SHED+.cpp
--> a.exe SHED+.cpp
+-> g++ SHED1.cpp
+-> a.exe SHED1.cpp
 
 
 Line 78 
@@ -10,3 +10,4 @@ Line 166
 ->ComputePOCD() < (0.70-0.95)  //Range
 
 we need to adjust the Range in-order to reduce number of "speculative attempts".
+
