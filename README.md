@@ -29,10 +29,10 @@ Running Our approach
 - ` a.exe 2`       // Executes our approach
 
 In order to simulate real life data
-- In line 188, change file name from "trace.txt" to "google.txt" 
+- In line `188`, change file name from `trace.txt` to `google.txt` 
 
 In order to simulate synthetic data
-- In line 188, change file name from "google.txt" to "trace.txt"
+- In line `188`, change file name from `google.txt` to `trace.txt`
 
 ### 2. `SHED+/`
 
