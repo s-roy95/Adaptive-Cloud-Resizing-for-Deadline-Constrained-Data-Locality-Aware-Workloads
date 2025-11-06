@@ -1,4 +1,4 @@
-# Adaptive Cloud Resizing for Deadline-Constrained, Data-Locality Aware Workloads
+# Reducing Active Cloud Machines using Deadline-Guided Data Chunk Placement and Scheduling
 ## 📁 Directory Structure
 
 ### 1. `Datasets/`
